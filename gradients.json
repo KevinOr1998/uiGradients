@@ -1,4 +1,7 @@
-[
+[ 
+    {
+      "name:"Ocean",
+      "colors":["#FA780F","#0EB303","#1493D6"]
     {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
